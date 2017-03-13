@@ -1,5 +1,5 @@
 _repo: The-Human-Comedy--Introductions-and-Appendix_1968
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Saintsbury, George
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '4608'
     url: http://www.gutenberg.org/2009/agents/4608
     wikipedia: http://en.wikipedia.org/wiki/George_Saintsbury
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -25,6 +28,8 @@ creator:
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1968#The-Human-Comedy--Introductions-and-Appendix
 gutenberg_issued: '1999-11-01'
 gutenberg_type: Text
 identifiers:
